@@ -1,0 +1,12 @@
+appId: com.darkware.mailant
+productName: MailAnt
+copyright: Copyright © 2023 Darkware
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
